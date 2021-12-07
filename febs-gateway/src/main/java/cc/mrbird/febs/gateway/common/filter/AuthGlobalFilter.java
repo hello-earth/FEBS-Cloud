@@ -1,5 +1,6 @@
-package cc.mrbird.febs.gateway.enhance.auth;
+package cc.mrbird.febs.gateway.common.filter;
 
+import cc.mrbird.febs.gateway.enhance.auth.JwtTokenHelper;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
